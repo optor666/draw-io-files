@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T08:46:37.003Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1788.0  uacq" etag="2f2Hs7u5-IMO2KiJ6-PR" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T08:54:09.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1788.0  uacq" etag="fIAH1so2Ce6Z3JfL7aZO" version="21.2.1" type="github">
   <diagram name="第 1 页" id="ICOvqZ3yyutcivsw5udB">
     <mxGraphModel dx="1434" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
@@ -48,6 +48,9 @@
             <mxPoint x="600" y="740" as="sourcePoint" />
             <mxPoint x="650" y="690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="W6VdYjZ4QfinrksOY_2K-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;1. Sequence Number：表示数据包序号；&lt;br&gt;2. Acknowledgment Number: 收到对端 Sequence Number 的数据包后，给对端回复 Sequence Number + 1；&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="880" width="1250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
